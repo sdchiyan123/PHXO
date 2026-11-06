@@ -64,11 +64,4 @@ PHXO Browser 是一个使用 C++ 和 CEF 从零构建的 Chromium 浏览器。�
 
 ---
 
-## 🔨 从源码构建
-
-```powershell
-cd v1.0
-mkdir build
-cd build
-cmake .. -G "Visual Studio 18 2026" -A x64
-cmake --build . --config Release
+END.
