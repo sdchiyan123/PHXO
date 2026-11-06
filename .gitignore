@@ -1,0 +1,13 @@
+﻿*.dll
+*.exe
+*.pak
+*.dat
+*.bin
+*.lib
+*.exp
+*.pdb
+*.log
+locales/
+DawnCache/
+GPUCache/
+build/
